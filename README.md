@@ -1,4 +1,4 @@
-# dittokun
+# isonnymichael
 
 Personal website, focus on portofolio projects. Simple, Clean, and Fast. Made with **Astro**, feel free to fork.
 
